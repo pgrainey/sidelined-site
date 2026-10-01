@@ -1,0 +1,1657 @@
+{
+ "_note": "Source: NFL Football Communications, '2026 NFL Schedule - By Week' PDF released May 14, 2026 (https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced). Kickoffs are the official ET times converted to UTC; hand-entered facts only. Not included because the league has not set a date/time yet (flexible scheduling): the 16 Week 18 games, 4 Week 16 games and 4 Week 17 games. Neutral-site games (Melbourne, Rio de Janeiro, London etc.) list the team the league names first as 'away'. Times can change under flex scheduling, so refresh before relying on later weeks. Generated 2026-10-01.",
+ "league": "NFL",
+ "season": 2026,
+ "teams": [
+  {
+   "id": "ARI",
+   "city": "Arizona",
+   "name": "Cardinals"
+  },
+  {
+   "id": "ATL",
+   "city": "Atlanta",
+   "name": "Falcons"
+  },
+  {
+   "id": "BAL",
+   "city": "Baltimore",
+   "name": "Ravens"
+  },
+  {
+   "id": "BUF",
+   "city": "Buffalo",
+   "name": "Bills"
+  },
+  {
+   "id": "CAR",
+   "city": "Carolina",
+   "name": "Panthers"
+  },
+  {
+   "id": "CHI",
+   "city": "Chicago",
+   "name": "Bears"
+  },
+  {
+   "id": "CIN",
+   "city": "Cincinnati",
+   "name": "Bengals"
+  },
+  {
+   "id": "CLE",
+   "city": "Cleveland",
+   "name": "Browns"
+  },
+  {
+   "id": "DAL",
+   "city": "Dallas",
+   "name": "Cowboys"
+  },
+  {
+   "id": "DEN",
+   "city": "Denver",
+   "name": "Broncos"
+  },
+  {
+   "id": "DET",
+   "city": "Detroit",
+   "name": "Lions"
+  },
+  {
+   "id": "GB",
+   "city": "Green Bay",
+   "name": "Packers"
+  },
+  {
+   "id": "HOU",
+   "city": "Houston",
+   "name": "Texans"
+  },
+  {
+   "id": "IND",
+   "city": "Indianapolis",
+   "name": "Colts"
+  },
+  {
+   "id": "JAX",
+   "city": "Jacksonville",
+   "name": "Jaguars"
+  },
+  {
+   "id": "KC",
+   "city": "Kansas City",
+   "name": "Chiefs"
+  },
+  {
+   "id": "LV",
+   "city": "Las Vegas",
+   "name": "Raiders"
+  },
+  {
+   "id": "LAC",
+   "city": "Los Angeles",
+   "name": "Chargers"
+  },
+  {
+   "id": "LAR",
+   "city": "Los Angeles",
+   "name": "Rams"
+  },
+  {
+   "id": "MIA",
+   "city": "Miami",
+   "name": "Dolphins"
+  },
+  {
+   "id": "MIN",
+   "city": "Minnesota",
+   "name": "Vikings"
+  },
+  {
+   "id": "NE",
+   "city": "New England",
+   "name": "Patriots"
+  },
+  {
+   "id": "NO",
+   "city": "New Orleans",
+   "name": "Saints"
+  },
+  {
+   "id": "NYG",
+   "city": "New York",
+   "name": "Giants"
+  },
+  {
+   "id": "NYJ",
+   "city": "New York",
+   "name": "Jets"
+  },
+  {
+   "id": "PHI",
+   "city": "Philadelphia",
+   "name": "Eagles"
+  },
+  {
+   "id": "PIT",
+   "city": "Pittsburgh",
+   "name": "Steelers"
+  },
+  {
+   "id": "SF",
+   "city": "San Francisco",
+   "name": "49ers"
+  },
+  {
+   "id": "SEA",
+   "city": "Seattle",
+   "name": "Seahawks"
+  },
+  {
+   "id": "TB",
+   "city": "Tampa Bay",
+   "name": "Buccaneers"
+  },
+  {
+   "id": "TEN",
+   "city": "Tennessee",
+   "name": "Titans"
+  },
+  {
+   "id": "WAS",
+   "city": "Washington",
+   "name": "Commanders"
+  }
+ ],
+ "games": [
+  {
+   "id": "2026-w01-ne-sea",
+   "away": "NE",
+   "home": "SEA",
+   "kickoff": "2026-09-10T00:20:00Z"
+  },
+  {
+   "id": "2026-w01-sf-lar",
+   "away": "SF",
+   "home": "LAR",
+   "kickoff": "2026-09-11T00:35:00Z"
+  },
+  {
+   "id": "2026-w01-chi-car",
+   "away": "CHI",
+   "home": "CAR",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-tb-cin",
+   "away": "TB",
+   "home": "CIN",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-no-det",
+   "away": "NO",
+   "home": "DET",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-buf-hou",
+   "away": "BUF",
+   "home": "HOU",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-bal-ind",
+   "away": "BAL",
+   "home": "IND",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-cle-jax",
+   "away": "CLE",
+   "home": "JAX",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-atl-pit",
+   "away": "ATL",
+   "home": "PIT",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-nyj-ten",
+   "away": "NYJ",
+   "home": "TEN",
+   "kickoff": "2026-09-13T17:00:00Z"
+  },
+  {
+   "id": "2026-w01-ari-lac",
+   "away": "ARI",
+   "home": "LAC",
+   "kickoff": "2026-09-13T20:25:00Z"
+  },
+  {
+   "id": "2026-w01-mia-lv",
+   "away": "MIA",
+   "home": "LV",
+   "kickoff": "2026-09-13T20:25:00Z"
+  },
+  {
+   "id": "2026-w01-gb-min",
+   "away": "GB",
+   "home": "MIN",
+   "kickoff": "2026-09-13T20:25:00Z"
+  },
+  {
+   "id": "2026-w01-was-phi",
+   "away": "WAS",
+   "home": "PHI",
+   "kickoff": "2026-09-13T20:25:00Z"
+  },
+  {
+   "id": "2026-w01-dal-nyg",
+   "away": "DAL",
+   "home": "NYG",
+   "kickoff": "2026-09-14T00:20:00Z"
+  },
+  {
+   "id": "2026-w01-den-kc",
+   "away": "DEN",
+   "home": "KC",
+   "kickoff": "2026-09-15T00:15:00Z"
+  },
+  {
+   "id": "2026-w02-det-buf",
+   "away": "DET",
+   "home": "BUF",
+   "kickoff": "2026-09-18T00:15:00Z"
+  },
+  {
+   "id": "2026-w02-car-atl",
+   "away": "CAR",
+   "home": "ATL",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-no-bal",
+   "away": "NO",
+   "home": "BAL",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-min-chi",
+   "away": "MIN",
+   "home": "CHI",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-cin-hou",
+   "away": "CIN",
+   "home": "HOU",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-pit-ne",
+   "away": "PIT",
+   "home": "NE",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-gb-nyj",
+   "away": "GB",
+   "home": "NYJ",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-cle-tb",
+   "away": "CLE",
+   "home": "TB",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-phi-ten",
+   "away": "PHI",
+   "home": "TEN",
+   "kickoff": "2026-09-20T17:00:00Z"
+  },
+  {
+   "id": "2026-w02-jax-den",
+   "away": "JAX",
+   "home": "DEN",
+   "kickoff": "2026-09-20T20:05:00Z"
+  },
+  {
+   "id": "2026-w02-lv-lac",
+   "away": "LV",
+   "home": "LAC",
+   "kickoff": "2026-09-20T20:05:00Z"
+  },
+  {
+   "id": "2026-w02-sea-ari",
+   "away": "SEA",
+   "home": "ARI",
+   "kickoff": "2026-09-20T20:25:00Z"
+  },
+  {
+   "id": "2026-w02-was-dal",
+   "away": "WAS",
+   "home": "DAL",
+   "kickoff": "2026-09-20T20:25:00Z"
+  },
+  {
+   "id": "2026-w02-mia-sf",
+   "away": "MIA",
+   "home": "SF",
+   "kickoff": "2026-09-20T20:25:00Z"
+  },
+  {
+   "id": "2026-w02-ind-kc",
+   "away": "IND",
+   "home": "KC",
+   "kickoff": "2026-09-21T00:20:00Z"
+  },
+  {
+   "id": "2026-w02-nyg-lar",
+   "away": "NYG",
+   "home": "LAR",
+   "kickoff": "2026-09-22T00:15:00Z"
+  },
+  {
+   "id": "2026-w03-atl-gb",
+   "away": "ATL",
+   "home": "GB",
+   "kickoff": "2026-09-25T00:15:00Z"
+  },
+  {
+   "id": "2026-w03-lac-buf",
+   "away": "LAC",
+   "home": "BUF",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-car-cle",
+   "away": "CAR",
+   "home": "CLE",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-nyj-det",
+   "away": "NYJ",
+   "home": "DET",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-hou-ind",
+   "away": "HOU",
+   "home": "IND",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-ne-jax",
+   "away": "NE",
+   "home": "JAX",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-kc-mia",
+   "away": "KC",
+   "home": "MIA",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-ten-nyg",
+   "away": "TEN",
+   "home": "NYG",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-cin-pit",
+   "away": "CIN",
+   "home": "PIT",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-sea-was",
+   "away": "SEA",
+   "home": "WAS",
+   "kickoff": "2026-09-27T17:00:00Z"
+  },
+  {
+   "id": "2026-w03-ari-sf",
+   "away": "ARI",
+   "home": "SF",
+   "kickoff": "2026-09-27T20:05:00Z"
+  },
+  {
+   "id": "2026-w03-min-tb",
+   "away": "MIN",
+   "home": "TB",
+   "kickoff": "2026-09-27T20:05:00Z"
+  },
+  {
+   "id": "2026-w03-bal-dal",
+   "away": "BAL",
+   "home": "DAL",
+   "kickoff": "2026-09-27T20:25:00Z"
+  },
+  {
+   "id": "2026-w03-lv-no",
+   "away": "LV",
+   "home": "NO",
+   "kickoff": "2026-09-27T20:25:00Z"
+  },
+  {
+   "id": "2026-w03-lar-den",
+   "away": "LAR",
+   "home": "DEN",
+   "kickoff": "2026-09-28T00:20:00Z"
+  },
+  {
+   "id": "2026-w03-phi-chi",
+   "away": "PHI",
+   "home": "CHI",
+   "kickoff": "2026-09-29T00:15:00Z"
+  },
+  {
+   "id": "2026-w04-pit-cle",
+   "away": "PIT",
+   "home": "CLE",
+   "kickoff": "2026-10-02T00:15:00Z"
+  },
+  {
+   "id": "2026-w04-ind-was",
+   "away": "IND",
+   "home": "WAS",
+   "kickoff": "2026-10-04T13:30:00Z"
+  },
+  {
+   "id": "2026-w04-ten-bal",
+   "away": "TEN",
+   "home": "BAL",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-ne-buf",
+   "away": "NE",
+   "home": "BUF",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-nyj-chi",
+   "away": "NYJ",
+   "home": "CHI",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-jax-cin",
+   "away": "JAX",
+   "home": "CIN",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-dal-hou",
+   "away": "DAL",
+   "home": "HOU",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-ari-nyg",
+   "away": "ARI",
+   "home": "NYG",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-lar-phi",
+   "away": "LAR",
+   "home": "PHI",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-gb-tb",
+   "away": "GB",
+   "home": "TB",
+   "kickoff": "2026-10-04T17:00:00Z"
+  },
+  {
+   "id": "2026-w04-mia-min",
+   "away": "MIA",
+   "home": "MIN",
+   "kickoff": "2026-10-04T20:05:00Z"
+  },
+  {
+   "id": "2026-w04-kc-lv",
+   "away": "KC",
+   "home": "LV",
+   "kickoff": "2026-10-04T20:25:00Z"
+  },
+  {
+   "id": "2026-w04-lac-sea",
+   "away": "LAC",
+   "home": "SEA",
+   "kickoff": "2026-10-04T20:25:00Z"
+  },
+  {
+   "id": "2026-w04-den-sf",
+   "away": "DEN",
+   "home": "SF",
+   "kickoff": "2026-10-04T20:25:00Z"
+  },
+  {
+   "id": "2026-w04-det-car",
+   "away": "DET",
+   "home": "CAR",
+   "kickoff": "2026-10-05T00:20:00Z"
+  },
+  {
+   "id": "2026-w04-atl-no",
+   "away": "ATL",
+   "home": "NO",
+   "kickoff": "2026-10-06T00:15:00Z"
+  },
+  {
+   "id": "2026-w05-tb-dal",
+   "away": "TB",
+   "home": "DAL",
+   "kickoff": "2026-10-09T00:15:00Z"
+  },
+  {
+   "id": "2026-w05-phi-jax",
+   "away": "PHI",
+   "home": "JAX",
+   "kickoff": "2026-10-11T13:30:00Z"
+  },
+  {
+   "id": "2026-w05-cin-mia",
+   "away": "CIN",
+   "home": "MIA",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-lv-ne",
+   "away": "LV",
+   "home": "NE",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-min-no",
+   "away": "MIN",
+   "home": "NO",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-cle-nyj",
+   "away": "CLE",
+   "home": "NYJ",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-ind-pit",
+   "away": "IND",
+   "home": "PIT",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-hou-ten",
+   "away": "HOU",
+   "home": "TEN",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-nyg-was",
+   "away": "NYG",
+   "home": "WAS",
+   "kickoff": "2026-10-11T17:00:00Z"
+  },
+  {
+   "id": "2026-w05-den-lac",
+   "away": "DEN",
+   "home": "LAC",
+   "kickoff": "2026-10-11T20:05:00Z"
+  },
+  {
+   "id": "2026-w05-det-ari",
+   "away": "DET",
+   "home": "ARI",
+   "kickoff": "2026-10-11T20:25:00Z"
+  },
+  {
+   "id": "2026-w05-chi-gb",
+   "away": "CHI",
+   "home": "GB",
+   "kickoff": "2026-10-11T20:25:00Z"
+  },
+  {
+   "id": "2026-w05-sf-sea",
+   "away": "SF",
+   "home": "SEA",
+   "kickoff": "2026-10-11T20:25:00Z"
+  },
+  {
+   "id": "2026-w05-bal-atl",
+   "away": "BAL",
+   "home": "ATL",
+   "kickoff": "2026-10-12T00:20:00Z"
+  },
+  {
+   "id": "2026-w05-buf-lar",
+   "away": "BUF",
+   "home": "LAR",
+   "kickoff": "2026-10-13T00:15:00Z"
+  },
+  {
+   "id": "2026-w06-sea-den",
+   "away": "SEA",
+   "home": "DEN",
+   "kickoff": "2026-10-16T00:15:00Z"
+  },
+  {
+   "id": "2026-w06-hou-jax",
+   "away": "HOU",
+   "home": "JAX",
+   "kickoff": "2026-10-18T13:30:00Z"
+  },
+  {
+   "id": "2026-w06-chi-atl",
+   "away": "CHI",
+   "home": "ATL",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-bal-cle",
+   "away": "BAL",
+   "home": "CLE",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-ten-ind",
+   "away": "TEN",
+   "home": "IND",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-nyj-ne",
+   "away": "NYJ",
+   "home": "NE",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-no-nyg",
+   "away": "NO",
+   "home": "NYG",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-car-phi",
+   "away": "CAR",
+   "home": "PHI",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-pit-tb",
+   "away": "PIT",
+   "home": "TB",
+   "kickoff": "2026-10-18T17:00:00Z"
+  },
+  {
+   "id": "2026-w06-ari-lar",
+   "away": "ARI",
+   "home": "LAR",
+   "kickoff": "2026-10-18T20:05:00Z"
+  },
+  {
+   "id": "2026-w06-lac-kc",
+   "away": "LAC",
+   "home": "KC",
+   "kickoff": "2026-10-18T20:25:00Z"
+  },
+  {
+   "id": "2026-w06-buf-lv",
+   "away": "BUF",
+   "home": "LV",
+   "kickoff": "2026-10-18T20:25:00Z"
+  },
+  {
+   "id": "2026-w06-dal-gb",
+   "away": "DAL",
+   "home": "GB",
+   "kickoff": "2026-10-19T00:20:00Z"
+  },
+  {
+   "id": "2026-w06-was-sf",
+   "away": "WAS",
+   "home": "SF",
+   "kickoff": "2026-10-20T00:15:00Z"
+  },
+  {
+   "id": "2026-w07-ne-chi",
+   "away": "NE",
+   "home": "CHI",
+   "kickoff": "2026-10-23T00:15:00Z"
+  },
+  {
+   "id": "2026-w07-pit-no",
+   "away": "PIT",
+   "home": "NO",
+   "kickoff": "2026-10-25T13:30:00Z"
+  },
+  {
+   "id": "2026-w07-sf-atl",
+   "away": "SF",
+   "home": "ATL",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-cin-bal",
+   "away": "CIN",
+   "home": "BAL",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-tb-car",
+   "away": "TB",
+   "home": "CAR",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-nyg-hou",
+   "away": "NYG",
+   "home": "HOU",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-ind-min",
+   "away": "IND",
+   "home": "MIN",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-mia-nyj",
+   "away": "MIA",
+   "home": "NYJ",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-cle-ten",
+   "away": "CLE",
+   "home": "TEN",
+   "kickoff": "2026-10-25T17:00:00Z"
+  },
+  {
+   "id": "2026-w07-den-ari",
+   "away": "DEN",
+   "home": "ARI",
+   "kickoff": "2026-10-25T20:05:00Z"
+  },
+  {
+   "id": "2026-w07-gb-det",
+   "away": "GB",
+   "home": "DET",
+   "kickoff": "2026-10-25T20:25:00Z"
+  },
+  {
+   "id": "2026-w07-lar-lv",
+   "away": "LAR",
+   "home": "LV",
+   "kickoff": "2026-10-25T20:25:00Z"
+  },
+  {
+   "id": "2026-w07-kc-sea",
+   "away": "KC",
+   "home": "SEA",
+   "kickoff": "2026-10-26T00:20:00Z"
+  },
+  {
+   "id": "2026-w07-dal-phi",
+   "away": "DAL",
+   "home": "PHI",
+   "kickoff": "2026-10-27T00:15:00Z"
+  },
+  {
+   "id": "2026-w08-car-gb",
+   "away": "CAR",
+   "home": "GB",
+   "kickoff": "2026-10-30T00:15:00Z"
+  },
+  {
+   "id": "2026-w08-bal-buf",
+   "away": "BAL",
+   "home": "BUF",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-ten-cin",
+   "away": "TEN",
+   "home": "CIN",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-ari-dal",
+   "away": "ARI",
+   "home": "DAL",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-min-det",
+   "away": "MIN",
+   "home": "DET",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-ind-jax",
+   "away": "IND",
+   "home": "JAX",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-lv-nyj",
+   "away": "LV",
+   "home": "NYJ",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-cle-pit",
+   "away": "CLE",
+   "home": "PIT",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-atl-tb",
+   "away": "ATL",
+   "home": "TB",
+   "kickoff": "2026-11-01T18:00:00Z"
+  },
+  {
+   "id": "2026-w08-lac-lar",
+   "away": "LAC",
+   "home": "LAR",
+   "kickoff": "2026-11-01T21:05:00Z"
+  },
+  {
+   "id": "2026-w08-kc-den",
+   "away": "KC",
+   "home": "DEN",
+   "kickoff": "2026-11-01T21:25:00Z"
+  },
+  {
+   "id": "2026-w08-ne-mia",
+   "away": "NE",
+   "home": "MIA",
+   "kickoff": "2026-11-01T21:25:00Z"
+  },
+  {
+   "id": "2026-w08-phi-was",
+   "away": "PHI",
+   "home": "WAS",
+   "kickoff": "2026-11-02T01:20:00Z"
+  },
+  {
+   "id": "2026-w08-chi-sea",
+   "away": "CHI",
+   "home": "SEA",
+   "kickoff": "2026-11-03T01:15:00Z"
+  },
+  {
+   "id": "2026-w09-jax-bal",
+   "away": "JAX",
+   "home": "BAL",
+   "kickoff": "2026-11-06T01:15:00Z"
+  },
+  {
+   "id": "2026-w09-cin-atl",
+   "away": "CIN",
+   "home": "ATL",
+   "kickoff": "2026-11-08T14:30:00Z"
+  },
+  {
+   "id": "2026-w09-den-car",
+   "away": "DEN",
+   "home": "CAR",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-dal-ind",
+   "away": "DAL",
+   "home": "IND",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-nyj-kc",
+   "away": "NYJ",
+   "home": "KC",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-det-mia",
+   "away": "DET",
+   "home": "MIA",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-cle-no",
+   "away": "CLE",
+   "home": "NO",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-nyg-phi",
+   "away": "NYG",
+   "home": "PHI",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-lar-was",
+   "away": "LAR",
+   "home": "WAS",
+   "kickoff": "2026-11-08T18:00:00Z"
+  },
+  {
+   "id": "2026-w09-hou-lac",
+   "away": "HOU",
+   "home": "LAC",
+   "kickoff": "2026-11-08T21:05:00Z"
+  },
+  {
+   "id": "2026-w09-lv-sf",
+   "away": "LV",
+   "home": "SF",
+   "kickoff": "2026-11-08T21:05:00Z"
+  },
+  {
+   "id": "2026-w09-gb-ne",
+   "away": "GB",
+   "home": "NE",
+   "kickoff": "2026-11-08T21:25:00Z"
+  },
+  {
+   "id": "2026-w09-ari-sea",
+   "away": "ARI",
+   "home": "SEA",
+   "kickoff": "2026-11-08T21:25:00Z"
+  },
+  {
+   "id": "2026-w09-tb-chi",
+   "away": "TB",
+   "home": "CHI",
+   "kickoff": "2026-11-09T01:20:00Z"
+  },
+  {
+   "id": "2026-w09-buf-min",
+   "away": "BUF",
+   "home": "MIN",
+   "kickoff": "2026-11-10T01:15:00Z"
+  },
+  {
+   "id": "2026-w10-was-nyg",
+   "away": "WAS",
+   "home": "NYG",
+   "kickoff": "2026-11-13T01:15:00Z"
+  },
+  {
+   "id": "2026-w10-ne-det",
+   "away": "NE",
+   "home": "DET",
+   "kickoff": "2026-11-15T14:30:00Z"
+  },
+  {
+   "id": "2026-w10-kc-atl",
+   "away": "KC",
+   "home": "ATL",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-hou-cle",
+   "away": "HOU",
+   "home": "CLE",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-min-gb",
+   "away": "MIN",
+   "home": "GB",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-mia-ind",
+   "away": "MIA",
+   "home": "IND",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-car-no",
+   "away": "CAR",
+   "home": "NO",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-buf-nyj",
+   "away": "BUF",
+   "home": "NYJ",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-jax-ten",
+   "away": "JAX",
+   "home": "TEN",
+   "kickoff": "2026-11-15T18:00:00Z"
+  },
+  {
+   "id": "2026-w10-lar-ari",
+   "away": "LAR",
+   "home": "ARI",
+   "kickoff": "2026-11-15T21:05:00Z"
+  },
+  {
+   "id": "2026-w10-sea-lv",
+   "away": "SEA",
+   "home": "LV",
+   "kickoff": "2026-11-15T21:05:00Z"
+  },
+  {
+   "id": "2026-w10-sf-dal",
+   "away": "SF",
+   "home": "DAL",
+   "kickoff": "2026-11-15T21:25:00Z"
+  },
+  {
+   "id": "2026-w10-pit-cin",
+   "away": "PIT",
+   "home": "CIN",
+   "kickoff": "2026-11-16T01:20:00Z"
+  },
+  {
+   "id": "2026-w10-lac-bal",
+   "away": "LAC",
+   "home": "BAL",
+   "kickoff": "2026-11-17T01:15:00Z"
+  },
+  {
+   "id": "2026-w11-ind-hou",
+   "away": "IND",
+   "home": "HOU",
+   "kickoff": "2026-11-20T01:15:00Z"
+  },
+  {
+   "id": "2026-w11-mia-buf",
+   "away": "MIA",
+   "home": "BUF",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-bal-car",
+   "away": "BAL",
+   "home": "CAR",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-no-chi",
+   "away": "NO",
+   "home": "CHI",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-ten-dal",
+   "away": "TEN",
+   "home": "DAL",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-tb-det",
+   "away": "TB",
+   "home": "DET",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-ari-kc",
+   "away": "ARI",
+   "home": "KC",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-jax-nyg",
+   "away": "JAX",
+   "home": "NYG",
+   "kickoff": "2026-11-22T18:00:00Z"
+  },
+  {
+   "id": "2026-w11-nyj-lac",
+   "away": "NYJ",
+   "home": "LAC",
+   "kickoff": "2026-11-22T21:05:00Z"
+  },
+  {
+   "id": "2026-w11-lv-den",
+   "away": "LV",
+   "home": "DEN",
+   "kickoff": "2026-11-22T21:25:00Z"
+  },
+  {
+   "id": "2026-w11-pit-phi",
+   "away": "PIT",
+   "home": "PHI",
+   "kickoff": "2026-11-22T21:25:00Z"
+  },
+  {
+   "id": "2026-w11-min-sf",
+   "away": "MIN",
+   "home": "SF",
+   "kickoff": "2026-11-23T01:20:00Z"
+  },
+  {
+   "id": "2026-w11-cin-was",
+   "away": "CIN",
+   "home": "WAS",
+   "kickoff": "2026-11-24T01:15:00Z"
+  },
+  {
+   "id": "2026-w12-gb-lar",
+   "away": "GB",
+   "home": "LAR",
+   "kickoff": "2026-11-26T01:00:00Z"
+  },
+  {
+   "id": "2026-w12-chi-det",
+   "away": "CHI",
+   "home": "DET",
+   "kickoff": "2026-11-26T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-phi-dal",
+   "away": "PHI",
+   "home": "DAL",
+   "kickoff": "2026-11-26T21:30:00Z"
+  },
+  {
+   "id": "2026-w12-kc-buf",
+   "away": "KC",
+   "home": "BUF",
+   "kickoff": "2026-11-27T01:20:00Z"
+  },
+  {
+   "id": "2026-w12-den-pit",
+   "away": "DEN",
+   "home": "PIT",
+   "kickoff": "2026-11-27T20:00:00Z"
+  },
+  {
+   "id": "2026-w12-no-cin",
+   "away": "NO",
+   "home": "CIN",
+   "kickoff": "2026-11-29T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-lv-cle",
+   "away": "LV",
+   "home": "CLE",
+   "kickoff": "2026-11-29T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-bal-hou",
+   "away": "BAL",
+   "home": "HOU",
+   "kickoff": "2026-11-29T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-nyg-ind",
+   "away": "NYG",
+   "home": "IND",
+   "kickoff": "2026-11-29T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-nyj-mia",
+   "away": "NYJ",
+   "home": "MIA",
+   "kickoff": "2026-11-29T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-atl-min",
+   "away": "ATL",
+   "home": "MIN",
+   "kickoff": "2026-11-29T18:00:00Z"
+  },
+  {
+   "id": "2026-w12-ten-jax",
+   "away": "TEN",
+   "home": "JAX",
+   "kickoff": "2026-11-29T21:05:00Z"
+  },
+  {
+   "id": "2026-w12-was-ari",
+   "away": "WAS",
+   "home": "ARI",
+   "kickoff": "2026-11-29T21:25:00Z"
+  },
+  {
+   "id": "2026-w12-sea-sf",
+   "away": "SEA",
+   "home": "SF",
+   "kickoff": "2026-11-29T21:25:00Z"
+  },
+  {
+   "id": "2026-w12-ne-lac",
+   "away": "NE",
+   "home": "LAC",
+   "kickoff": "2026-11-30T01:20:00Z"
+  },
+  {
+   "id": "2026-w12-car-tb",
+   "away": "CAR",
+   "home": "TB",
+   "kickoff": "2026-12-01T01:15:00Z"
+  },
+  {
+   "id": "2026-w13-kc-lar",
+   "away": "KC",
+   "home": "LAR",
+   "kickoff": "2026-12-04T01:15:00Z"
+  },
+  {
+   "id": "2026-w13-det-atl",
+   "away": "DET",
+   "home": "ATL",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-jax-chi",
+   "away": "JAX",
+   "home": "CHI",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-cin-cle",
+   "away": "CIN",
+   "home": "CLE",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-gb-no",
+   "away": "GB",
+   "home": "NO",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-sf-nyg",
+   "away": "SF",
+   "home": "NYG",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-lac-tb",
+   "away": "LAC",
+   "home": "TB",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-was-ten",
+   "away": "WAS",
+   "home": "TEN",
+   "kickoff": "2026-12-06T18:00:00Z"
+  },
+  {
+   "id": "2026-w13-phi-ari",
+   "away": "PHI",
+   "home": "ARI",
+   "kickoff": "2026-12-06T21:05:00Z"
+  },
+  {
+   "id": "2026-w13-mia-den",
+   "away": "MIA",
+   "home": "DEN",
+   "kickoff": "2026-12-06T21:05:00Z"
+  },
+  {
+   "id": "2026-w13-car-min",
+   "away": "CAR",
+   "home": "MIN",
+   "kickoff": "2026-12-06T21:25:00Z"
+  },
+  {
+   "id": "2026-w13-buf-ne",
+   "away": "BUF",
+   "home": "NE",
+   "kickoff": "2026-12-06T21:25:00Z"
+  },
+  {
+   "id": "2026-w13-hou-pit",
+   "away": "HOU",
+   "home": "PIT",
+   "kickoff": "2026-12-07T01:20:00Z"
+  },
+  {
+   "id": "2026-w13-dal-sea",
+   "away": "DAL",
+   "home": "SEA",
+   "kickoff": "2026-12-08T01:15:00Z"
+  },
+  {
+   "id": "2026-w14-min-ne",
+   "away": "MIN",
+   "home": "NE",
+   "kickoff": "2026-12-11T01:15:00Z"
+  },
+  {
+   "id": "2026-w14-tb-bal",
+   "away": "TB",
+   "home": "BAL",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-no-car",
+   "away": "NO",
+   "home": "CAR",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-atl-cle",
+   "away": "ATL",
+   "home": "CLE",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-ten-det",
+   "away": "TEN",
+   "home": "DET",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-chi-mia",
+   "away": "CHI",
+   "home": "MIA",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-den-nyj",
+   "away": "DEN",
+   "home": "NYJ",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-ind-phi",
+   "away": "IND",
+   "home": "PHI",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-hou-was",
+   "away": "HOU",
+   "home": "WAS",
+   "kickoff": "2026-12-13T18:00:00Z"
+  },
+  {
+   "id": "2026-w14-lac-lv",
+   "away": "LAC",
+   "home": "LV",
+   "kickoff": "2026-12-13T21:05:00Z"
+  },
+  {
+   "id": "2026-w14-kc-cin",
+   "away": "KC",
+   "home": "CIN",
+   "kickoff": "2026-12-13T21:25:00Z"
+  },
+  {
+   "id": "2026-w14-nyg-sea",
+   "away": "NYG",
+   "home": "SEA",
+   "kickoff": "2026-12-13T21:25:00Z"
+  },
+  {
+   "id": "2026-w14-lar-sf",
+   "away": "LAR",
+   "home": "SF",
+   "kickoff": "2026-12-13T21:25:00Z"
+  },
+  {
+   "id": "2026-w14-buf-gb",
+   "away": "BUF",
+   "home": "GB",
+   "kickoff": "2026-12-14T01:20:00Z"
+  },
+  {
+   "id": "2026-w14-pit-jax",
+   "away": "PIT",
+   "home": "JAX",
+   "kickoff": "2026-12-15T01:15:00Z"
+  },
+  {
+   "id": "2026-w15-sf-lac",
+   "away": "SF",
+   "home": "LAC",
+   "kickoff": "2026-12-18T01:15:00Z"
+  },
+  {
+   "id": "2026-w15-sea-phi",
+   "away": "SEA",
+   "home": "PHI",
+   "kickoff": "2026-12-19T22:00:00Z"
+  },
+  {
+   "id": "2026-w15-chi-buf",
+   "away": "CHI",
+   "home": "BUF",
+   "kickoff": "2026-12-20T01:20:00Z"
+  },
+  {
+   "id": "2026-w15-cin-car",
+   "away": "CIN",
+   "home": "CAR",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-mia-gb",
+   "away": "MIA",
+   "home": "GB",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-jax-hou",
+   "away": "JAX",
+   "home": "HOU",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-cle-nyg",
+   "away": "CLE",
+   "home": "NYG",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-bal-pit",
+   "away": "BAL",
+   "home": "PIT",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-no-tb",
+   "away": "NO",
+   "home": "TB",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-ind-ten",
+   "away": "IND",
+   "home": "TEN",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-atl-was",
+   "away": "ATL",
+   "home": "WAS",
+   "kickoff": "2026-12-20T18:00:00Z"
+  },
+  {
+   "id": "2026-w15-nyj-ari",
+   "away": "NYJ",
+   "home": "ARI",
+   "kickoff": "2026-12-20T21:05:00Z"
+  },
+  {
+   "id": "2026-w15-dal-lar",
+   "away": "DAL",
+   "home": "LAR",
+   "kickoff": "2026-12-20T21:25:00Z"
+  },
+  {
+   "id": "2026-w15-den-lv",
+   "away": "DEN",
+   "home": "LV",
+   "kickoff": "2026-12-20T21:25:00Z"
+  },
+  {
+   "id": "2026-w15-det-min",
+   "away": "DET",
+   "home": "MIN",
+   "kickoff": "2026-12-21T01:20:00Z"
+  },
+  {
+   "id": "2026-w15-ne-kc",
+   "away": "NE",
+   "home": "KC",
+   "kickoff": "2026-12-22T01:15:00Z"
+  },
+  {
+   "id": "2026-w16-hou-phi",
+   "away": "HOU",
+   "home": "PHI",
+   "kickoff": "2026-12-25T01:15:00Z"
+  },
+  {
+   "id": "2026-w16-gb-chi",
+   "away": "GB",
+   "home": "CHI",
+   "kickoff": "2026-12-25T18:00:00Z"
+  },
+  {
+   "id": "2026-w16-buf-den",
+   "away": "BUF",
+   "home": "DEN",
+   "kickoff": "2026-12-25T21:30:00Z"
+  },
+  {
+   "id": "2026-w16-lar-sea",
+   "away": "LAR",
+   "home": "SEA",
+   "kickoff": "2026-12-26T01:15:00Z"
+  },
+  {
+   "id": "2026-w16-cle-bal",
+   "away": "CLE",
+   "home": "BAL",
+   "kickoff": "2026-12-27T18:00:00Z"
+  },
+  {
+   "id": "2026-w16-lac-mia",
+   "away": "LAC",
+   "home": "MIA",
+   "kickoff": "2026-12-27T18:00:00Z"
+  },
+  {
+   "id": "2026-w16-ari-no",
+   "away": "ARI",
+   "home": "NO",
+   "kickoff": "2026-12-27T18:00:00Z"
+  },
+  {
+   "id": "2026-w16-ne-nyj",
+   "away": "NE",
+   "home": "NYJ",
+   "kickoff": "2026-12-27T18:00:00Z"
+  },
+  {
+   "id": "2026-w16-ten-lv",
+   "away": "TEN",
+   "home": "LV",
+   "kickoff": "2026-12-27T21:05:00Z"
+  },
+  {
+   "id": "2026-w16-sf-kc",
+   "away": "SF",
+   "home": "KC",
+   "kickoff": "2026-12-27T21:25:00Z"
+  },
+  {
+   "id": "2026-w16-jax-dal",
+   "away": "JAX",
+   "home": "DAL",
+   "kickoff": "2026-12-28T01:20:00Z"
+  },
+  {
+   "id": "2026-w16-nyg-det",
+   "away": "NYG",
+   "home": "DET",
+   "kickoff": "2026-12-29T01:15:00Z"
+  },
+  {
+   "id": "2026-w17-bal-cin",
+   "away": "BAL",
+   "home": "CIN",
+   "kickoff": "2027-01-01T01:15:00Z"
+  },
+  {
+   "id": "2026-w17-no-atl",
+   "away": "NO",
+   "home": "ATL",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-sea-car",
+   "away": "SEA",
+   "home": "CAR",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-ind-cle",
+   "away": "IND",
+   "home": "CLE",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-nyg-dal",
+   "away": "NYG",
+   "home": "DAL",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-buf-mia",
+   "away": "BUF",
+   "home": "MIA",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-min-nyj",
+   "away": "MIN",
+   "home": "NYJ",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-pit-ten",
+   "away": "PIT",
+   "home": "TEN",
+   "kickoff": "2027-01-03T18:00:00Z"
+  },
+  {
+   "id": "2026-w17-lv-ari",
+   "away": "LV",
+   "home": "ARI",
+   "kickoff": "2027-01-03T21:05:00Z"
+  },
+  {
+   "id": "2026-w17-det-chi",
+   "away": "DET",
+   "home": "CHI",
+   "kickoff": "2027-01-03T21:25:00Z"
+  },
+  {
+   "id": "2026-w17-phi-sf",
+   "away": "PHI",
+   "home": "SF",
+   "kickoff": "2027-01-04T01:20:00Z"
+  },
+  {
+   "id": "2026-w17-hou-gb",
+   "away": "HOU",
+   "home": "GB",
+   "kickoff": "2027-01-05T01:15:00Z"
+  }
+ ]
+}
