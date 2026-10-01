@@ -1,0 +1,25 @@
+{
+  "_note": "Betting-only domains. Block a root domain only when the whole business is betting; for companies with non-betting businesses (e.g. Caesars hotels, Fanatics merch, ESPN/theScore news) list only their sportsbook domains. Max 50 domains are used.",
+  "version": 2,
+  "domains": [
+    "draftkings.com",
+    "sportsbook.draftkings.com",
+    "fanduel.com",
+    "sportsbook.fanduel.com",
+    "betmgm.com",
+    "sports.betmgm.com",
+    "sportsbook.caesars.com",
+    "caesarssportsbook.com",
+    "sportsbook.fanatics.com",
+    "betfanatics.com",
+    "espnbet.com",
+    "thescore.bet",
+    "kalshi.com",
+    "polymarket.com",
+    "prizepicks.com",
+    "underdogfantasy.com",
+    "bet365.com",
+    "betrivers.com",
+    "hardrock.bet"
+  ]
+}
